@@ -26,7 +26,7 @@
     
   }
   
-  .fa-twitter {
+  .fa-twitter { 
     background: #55ACEE;
     color: white;
   }
@@ -70,4 +70,47 @@
           font-size: 20px;
           text-align: center;
       }
- 
+      .section2 > h1{
+          text-align: center;
+          font-size: 35px;
+      }
+    .info1{
+        border: 1px solid black;
+        width: 400px;
+        height: 200px;
+        border-radius: 15px;
+        
+
+        
+    }
+    .section2{
+        background-color: blanchedalmond;
+        height: 400px;
+        width: 100%;
+        
+    }
+    .info{
+        display: flex ;
+        justify-content: space-evenly;
+    }
+    .info2{
+        border: 1px solid black;
+        width: 400px;
+        height: 200px;
+        border-radius: 15px;
+    }
+    .info3{
+        border: 1px solid black;
+        width: 400px;
+        height: 200px;
+        border-radius: 15px;
+    }
+    .section3{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .sec3info > p{
+        font-weight: 500;
+        color: blueviolet;
+    }
+    
